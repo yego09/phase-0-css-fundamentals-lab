@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: aqua;
+}
+header{
+  text-align: center;
+}
+nav{
+  align-content: center;
+}
+img a{
+  align-items: center;
+}
+figcaption{
+  font-size: 20px;
+  text-align: center;
+}
+p{
+  text-align: center;
+  width: 800px;
+}
+div{
+  float: left;
+  text-align: center;
+  background-color: aquamarine;
+  width: 25%;
+
+}
